@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ashish162002/DSA_problems/tree/master/0055-jump-game) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/ashish162002/DSA_problems/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/ashish162002/DSA_problems/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
