@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ashish162002/DSA_problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ashish162002/DSA_problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ashish162002/DSA_problems/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/ashish162002/DSA_problems/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ashish162002/DSA_problems/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/ashish162002/DSA_problems/tree/master/0089-gray-code) |
 ## Simulation
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ashish162002/DSA_problems/tree/master/0069-sqrtx) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/ashish162002/DSA_problems/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
