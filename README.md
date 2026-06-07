@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashish162002/DSA_problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ashish162002/DSA_problems/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/ashish162002/DSA_problems/tree/master/0012-integer-to-roman) |
 | [0060-permutation-sequence](https://github.com/ashish162002/DSA_problems/tree/master/0060-permutation-sequence) |
 ## Recursion
 |  |
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashish162002/DSA_problems/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/ashish162002/DSA_problems/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/ashish162002/DSA_problems/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
