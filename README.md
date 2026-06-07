@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ashish162002/DSA_problems/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/ashish162002/DSA_problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ashish162002/DSA_problems/tree/master/0066-plus-one) |
+| [0587-erect-the-fence](https://github.com/ashish162002/DSA_problems/tree/master/0587-erect-the-fence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ashish162002/DSA_problems/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/ashish162002/DSA_problems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ashish162002/DSA_problems/tree/master/0096-unique-binary-search-trees) |
+| [0587-erect-the-fence](https://github.com/ashish162002/DSA_problems/tree/master/0587-erect-the-fence) |
 ## Recursion
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ashish162002/DSA_problems/tree/master/0096-unique-binary-search-trees) |
+## Geometry
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/ashish162002/DSA_problems/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
