@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ashish162002/DSA_problems/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ashish162002/DSA_problems/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/ashish162002/DSA_problems/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/ashish162002/DSA_problems/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/ashish162002/DSA_problems/tree/master/0060-permutation-sequence) |
 ## Recursion
 |  |
@@ -38,8 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ashish162002/DSA_problems/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/ashish162002/DSA_problems/tree/master/0043-multiply-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ashish162002/DSA_problems/tree/master/0029-divide-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/ashish162002/DSA_problems/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
