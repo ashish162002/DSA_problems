@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ashish162002/DSA_problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ashish162002/DSA_problems/tree/master/0062-unique-paths) |
 ## Greedy
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ashish162002/DSA_problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ashish162002/DSA_problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ashish162002/DSA_problems/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/ashish162002/DSA_problems/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ashish162002/DSA_problems/tree/master/0048-rotate-image) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ashish162002/DSA_problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
