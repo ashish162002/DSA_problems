@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ashish162002/DSA_problems/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/ashish162002/DSA_problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ashish162002/DSA_problems/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/ashish162002/DSA_problems/tree/master/0283-move-zeroes) |
 | [0587-erect-the-fence](https://github.com/ashish162002/DSA_problems/tree/master/0587-erect-the-fence) |
 | [1073-adding-two-negabinary-numbers](https://github.com/ashish162002/DSA_problems/tree/master/1073-adding-two-negabinary-numbers) |
 ## Dynamic Programming
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/ashish162002/DSA_problems/tree/master/0587-erect-the-fence) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/ashish162002/DSA_problems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
