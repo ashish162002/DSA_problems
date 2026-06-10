@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ashish162002/DSA_problems/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/ashish162002/DSA_problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ashish162002/DSA_problems/tree/master/0066-plus-one) |
+| [0152-maximum-product-subarray](https://github.com/ashish162002/DSA_problems/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/ashish162002/DSA_problems/tree/master/0283-move-zeroes) |
 | [0587-erect-the-fence](https://github.com/ashish162002/DSA_problems/tree/master/0587-erect-the-fence) |
 | [1073-adding-two-negabinary-numbers](https://github.com/ashish162002/DSA_problems/tree/master/1073-adding-two-negabinary-numbers) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ashish162002/DSA_problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ashish162002/DSA_problems/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/ashish162002/DSA_problems/tree/master/0096-unique-binary-search-trees) |
+| [0152-maximum-product-subarray](https://github.com/ashish162002/DSA_problems/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
 | ------- |
