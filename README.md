@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ashish162002/DSA_problems/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/ashish162002/DSA_problems/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/ashish162002/DSA_problems/tree/master/0152-maximum-product-subarray) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ashish162002/DSA_problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ashish162002/DSA_problems/tree/master/0055-jump-game) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ashish162002/DSA_problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ashish162002/DSA_problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ashish162002/DSA_problems/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/ashish162002/DSA_problems/tree/master/0043-multiply-strings) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ashish162002/DSA_problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ashish162002/DSA_problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/ashish162002/DSA_problems/tree/master/0283-move-zeroes) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ashish162002/DSA_problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Enumeration
 |  |
 | ------- |
