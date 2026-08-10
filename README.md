@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ashish162002/DSA_problems/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/ashish162002/DSA_problems/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/ashish162002/DSA_problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ashish162002/DSA_problems/tree/master/0066-plus-one) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ashish162002/DSA_problems/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/ashish162002/DSA_problems/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ashish162002/DSA_problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Enumeration
