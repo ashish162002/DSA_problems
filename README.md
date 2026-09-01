@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ashish162002/DSA_problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ashish162002/DSA_problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/ashish162002/DSA_problems/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/ashish162002/DSA_problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ashish162002/DSA_problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ashish162002/DSA_problems/tree/master/0485-max-consecutive-ones) |
 | [0587-erect-the-fence](https://github.com/ashish162002/DSA_problems/tree/master/0587-erect-the-fence) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ashish162002/DSA_problems/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/ashish162002/DSA_problems/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -134,4 +136,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/ashish162002/DSA_problems/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ashish162002/DSA_problems/tree/master/1757-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ashish162002/DSA_problems/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ashish162002/DSA_problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ashish162002/DSA_problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ashish162002/DSA_problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
