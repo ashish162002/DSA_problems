@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ashish162002/DSA_problems/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/ashish162002/DSA_problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ashish162002/DSA_problems/tree/master/0066-plus-one) |
+| [0128-longest-consecutive-sequence](https://github.com/ashish162002/DSA_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ashish162002/DSA_problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/ashish162002/DSA_problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/ashish162002/DSA_problems/tree/master/0169-majority-element) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ashish162002/DSA_problems/tree/master/0012-integer-to-roman) |
+| [0128-longest-consecutive-sequence](https://github.com/ashish162002/DSA_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ashish162002/DSA_problems/tree/master/0169-majority-element) |
 ## String
 |  |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashish162002/DSA_problems/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ashish162002/DSA_problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
