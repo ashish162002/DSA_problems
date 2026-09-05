@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-adding-two-negabinary-numbers](https://github.com/ashish162002/DSA_problems/tree/master/1073-adding-two-negabinary-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ashish162002/DSA_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3903-smallest-stable-index-i](https://github.com/ashish162002/DSA_problems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ashish162002/DSA_problems/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -173,4 +174,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/ashish162002/DSA_problems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ashish162002/DSA_problems/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
