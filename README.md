@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ashish162002/DSA_problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ashish162002/DSA_problems/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/ashish162002/DSA_problems/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/ashish162002/DSA_problems/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/ashish162002/DSA_problems/tree/master/0152-maximum-product-subarray) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ashish162002/DSA_problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ashish162002/DSA_problems/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/ashish162002/DSA_problems/tree/master/0043-multiply-strings) |
+| [0115-distinct-subsequences](https://github.com/ashish162002/DSA_problems/tree/master/0115-distinct-subsequences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ashish162002/DSA_problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ashish162002/DSA_problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
