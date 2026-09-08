@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/ashish162002/DSA_problems/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ashish162002/DSA_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ashish162002/DSA_problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3870-count-commas-in-range](https://github.com/ashish162002/DSA_problems/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
 | ------- |
