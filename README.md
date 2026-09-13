@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ashish162002/DSA_problems/tree/master/0055-jump-game) |
+| [1903-largest-odd-number-in-string](https://github.com/ashish162002/DSA_problems/tree/master/1903-largest-odd-number-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ashish162002/DSA_problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ashish162002/DSA_problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/ashish162002/DSA_problems/tree/master/0587-erect-the-fence) |
 | [1073-adding-two-negabinary-numbers](https://github.com/ashish162002/DSA_problems/tree/master/1073-adding-two-negabinary-numbers) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/ashish162002/DSA_problems/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
+| [1903-largest-odd-number-in-string](https://github.com/ashish162002/DSA_problems/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ashish162002/DSA_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ashish162002/DSA_problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3870-count-commas-in-range](https://github.com/ashish162002/DSA_problems/tree/master/3870-count-commas-in-range) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ashish162002/DSA_problems/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/ashish162002/DSA_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ashish162002/DSA_problems/tree/master/0940-distinct-subsequences-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/ashish162002/DSA_problems/tree/master/1903-largest-odd-number-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ashish162002/DSA_problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ashish162002/DSA_problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
