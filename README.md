@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/ashish162002/DSA_problems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ashish162002/DSA_problems/tree/master/0096-unique-binary-search-trees) |
 | [0587-erect-the-fence](https://github.com/ashish162002/DSA_problems/tree/master/0587-erect-the-fence) |
+| [0836-rectangle-overlap](https://github.com/ashish162002/DSA_problems/tree/master/0836-rectangle-overlap) |
 | [1073-adding-two-negabinary-numbers](https://github.com/ashish162002/DSA_problems/tree/master/1073-adding-two-negabinary-numbers) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/ashish162002/DSA_problems/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1903-largest-odd-number-in-string](https://github.com/ashish162002/DSA_problems/tree/master/1903-largest-odd-number-in-string) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/ashish162002/DSA_problems/tree/master/0587-erect-the-fence) |
+| [0836-rectangle-overlap](https://github.com/ashish162002/DSA_problems/tree/master/0836-rectangle-overlap) |
 ## Two Pointers
 |  |
 | ------- |
