@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ashish162002/DSA_problems/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/ashish162002/DSA_problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ashish162002/DSA_problems/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ashish162002/DSA_problems/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ashish162002/DSA_problems/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ashish162002/DSA_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ashish162002/DSA_problems/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/ashish162002/DSA_problems/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ashish162002/DSA_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ashish162002/DSA_problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Enumeration
